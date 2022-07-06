@@ -1,0 +1,9 @@
+header {
+  width: 50%;
+  margin: 0 auto;
+}
+.Todo_header {
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+}

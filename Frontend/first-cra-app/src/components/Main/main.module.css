@@ -1,0 +1,35 @@
+main {
+  width: 50%;
+  margin: 0 auto;
+}
+form {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+input {
+  width: 70%;
+}
+.add_btn {
+  width: 20%;
+}
+.completedActive {
+  background-color: aliceblue;
+}
+
+.completedNotActive {
+  background-color: yellow;
+}
+.todo {
+  margin-top: 10px;
+  text-align: center;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+button {
+  cursor: pointer;
+}
+.addList{
+  text-align: center;
+}
